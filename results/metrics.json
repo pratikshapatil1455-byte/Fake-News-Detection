@@ -1,0 +1,10 @@
+{
+  "selected_model": "Linear SVM",
+  "accuracy": 0.9672375864236329,
+  "precision": 0.9634632034632035,
+  "recall": 0.9642980935875216,
+  "f1_score": 0.9638804677349502,
+  "roc_auc": 0.9949824472958074,
+  "train_samples": 50908,
+  "test_samples": 12728
+}
