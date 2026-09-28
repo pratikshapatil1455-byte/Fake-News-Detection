@@ -1,4 +1,4 @@
-# AI-Based Fake News Detection System
+# Fake News Detection System
 
 ## Internship Project — B.Tech Data Science
 
@@ -25,7 +25,7 @@ Logistic Regression, Multinomial Naive Bayes and Linear SVM. The notebook select
 7. Test your own news at the final cell.
 
 ### GitHub
-Suggested repository name: `AI-Based-Fake-News-Detection-System`
+Suggested repository name: `Fake-News-Detection-System`
 
 Do not upload the 245 MB dataset unless your repository/storage policy allows it. Keep the download instructions in this README.
 
